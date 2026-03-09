@@ -5,10 +5,10 @@ A curated list of **angel investors in Pakistan** for startups to find funding a
 ## Datasets
 
 ### Pakistan-Based Investors  
-https://smiupk-my.sharepoint.com/:x:/g/personal/bse22s133_stu_smiu_edu_pk/IQDfvoorjmnOSbbn-oApISTTAUL0VlAA7TCIOtiqLIZG0wA?e=jQCHQl
+<a href="https://smiupk-my.sharepoint.com/:x:/g/personal/bse22s133_stu_smiu_edu_pk/IQDfvoorjmnOSbbn-oApISTTAUL0VlAA7TCIOtiqLIZG0wA?e=jQCHQl" target="_blank">Open Pakistan-Based Investors Excel</a>
 
 ### Karachi-Based Investors  
-https://smiupk-my.sharepoint.com/:x:/g/personal/bse22s133_stu_smiu_edu_pk/IQB--SPwx8CESrESpC-CQZRaAe1OOFld2DogS6-PS4iYEtE?e=1nem2a
+<a href="https://smiupk-my.sharepoint.com/:x:/g/personal/bse22s133_stu_smiu_edu_pk/IQB--SPwx8CESrESpC-CQZRaAe1OOFld2DogS6-PS4iYEtE?e=1nem2a" target="_blank">Open Karachi-Based Investors Excel</a>
 
 ## Usage
 
