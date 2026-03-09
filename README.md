@@ -1,6 +1,6 @@
 # Investor List – Pakistan
 
-A curated list of **angel investors in Pakistan** for startups to find funding and partnerships.
+A curated list of **investors in Pakistan** for startups to find funding and partnerships.
 
 ## Datasets
 
