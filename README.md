@@ -1,4 +1,4 @@
-# Angel Investor List – Pakistan
+# Investor List – Pakistan
 
 A curated list of **angel investors in Pakistan** for startups to find funding and partnerships.
 
@@ -12,13 +12,11 @@ A curated list of **angel investors in Pakistan** for startups to find funding a
 
 ## Usage
 
-1. Open Excel dataset  
+1. Open the Excel dataset  
 2. Review details  
 3. Filter by location or focus  
-4. Use for outreach
 
 ## Disclaimer
 
 Information is public and **not for advertisement**.  
 Users are responsible for how they use it.  
-Contact to remove or correct any entry.
